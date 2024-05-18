@@ -3,20 +3,24 @@
   "description": "收集一些自己脚本用到的图标",
   "icons": [
     {
-      "name": "tiktok.png",
-      "url": "https://raw.githubusercontent.com/Pinocchang/IconsGallery/main/icons/tiktok.png"
-    },
-    {
       "name": "wechat.png",
       "url": "https://raw.githubusercontent.com/Pinocchang/IconsGallery/main/icons/wechat.png"
     },
     {
-      "name": "bilibili.png",
-      "url": "https://raw.githubusercontent.com/Pinocchang/IconsGallery/main/icons/bilibili.png"
+      "name": "Amap.png",
+      "url": "https://raw.githubusercontent.com/Pinocchang/IconsGallery/main/icons/Amap.png"
     },
     {
       "name": "github.png",
       "url": "https://raw.githubusercontent.com/Pinocchang/IconsGallery/main/icons/github.png"
+    },
+    {
+      "name": "tiktok.png",
+      "url": "https://raw.githubusercontent.com/Pinocchang/IconsGallery/main/icons/tiktok.png"
+    },
+    {
+      "name": "bilibili.png",
+      "url": "https://raw.githubusercontent.com/Pinocchang/IconsGallery/main/icons/bilibili.png"
     }
   ]
 }
