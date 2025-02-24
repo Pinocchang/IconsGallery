@@ -3,24 +3,28 @@
   "description": "收集一些自己脚本用到的图标",
   "icons": [
     {
-      "name": "Wechat.png",
-      "url": "https://raw.githubusercontent.com/Pinocchang/IconsGallery/main/icons/Wechat.png"
+      "name": "wechat.png",
+      "url": "https://raw.githubusercontent.com/Pinocchang/IconsGallery/main/icons/wechat.png"
     },
     {
       "name": "Amap.png",
       "url": "https://raw.githubusercontent.com/Pinocchang/IconsGallery/main/icons/Amap.png"
     },
     {
-      "name": "Github.png",
-      "url": "https://raw.githubusercontent.com/Pinocchang/IconsGallery/main/icons/Github.png"
+      "name": "github.png",
+      "url": "https://raw.githubusercontent.com/Pinocchang/IconsGallery/main/icons/github.png"
     },
     {
-      "name": "Tiktok.png",
-      "url": "https://raw.githubusercontent.com/Pinocchang/IconsGallery/main/icons/Tiktok.png"
+      "name": "tiktok.png",
+      "url": "https://raw.githubusercontent.com/Pinocchang/IconsGallery/main/icons/tiktok.png"
     },
     {
-      "name": "Bilibili.png",
-      "url": "https://raw.githubusercontent.com/Pinocchang/IconsGallery/main/icons/Bilibili.png"
+      "name": "Zeeho.png",
+      "url": "https://raw.githubusercontent.com/Pinocchang/IconsGallery/main/icons/ZEEHO.png"
+    },
+    {
+      "name": "bilibili.png",
+      "url": "https://raw.githubusercontent.com/Pinocchang/IconsGallery/main/icons/bilibili.png"
     }
   ]
 }
